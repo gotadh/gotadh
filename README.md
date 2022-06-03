@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gotadh
+- 👀 I’m interested in learning new things.
+- 🌱 I’m currently learning Java script.
+- 💞️ I’m looking foward to be Expert in Javascript and develop all kinds of stuffs.
+- 📫 How to reach me : Insta : Dhundupcodes.
